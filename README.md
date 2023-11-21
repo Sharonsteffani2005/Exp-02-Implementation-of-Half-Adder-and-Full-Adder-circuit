@@ -45,7 +45,7 @@ Logic symbol & Truthtable
 RTL realization
 
 ### Output:
-![FULL ADDER 1](https://github.com/Sharonsteffani2005/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144979934/6b33e9b0-c789-4523-9ab3-767b8f0f54c7)
+
 ![PRO 2](https://github.com/Sharonsteffani2005/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144979934/7883b3ac-e374-4947-980a-9dbba975c84a)
 ### RTL
 ![FULL ADDER 1](https://github.com/Sharonsteffani2005/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144979934/80bf3c38-5221-4f65-a7fb-b430b90e2a42)
